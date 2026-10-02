@@ -1,0 +1,1 @@
+# 3SIZ-ProjetoExemploGitFlow-2026
